@@ -1,0 +1,30 @@
+.form-register{
+    padding: 20px;
+    margin: 0 auto;
+    background: #e3e3e3;
+    border: 1px solid #fff;
+    border-radius: 20px;
+}
+
+
+h2 {
+    margin-bottom: 25px;
+
+}
+
+/* ----------------------------- */
+
+.verticalAlignFlexBox{
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    justify-content: center; /* align horizontal */
+
+}

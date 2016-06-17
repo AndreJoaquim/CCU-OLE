@@ -1,0 +1,19 @@
+#sign-in-course {
+    margin-top: 40px;
+}
+
+#course-description{
+	margin-top: -20px;
+}
+
+.table tbody>tr>td {
+    vertical-align: middle;
+}
+
+.table tbody>tr>.align-right{
+    text-align: right;
+}
+
+.table {
+    width: 60%;
+}

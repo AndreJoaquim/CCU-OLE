@@ -1,0 +1,34 @@
+#sign-in-course {
+    margin-top: 40px;
+}
+
+.guide{
+	padding-bottom: 20px;
+}
+
+
+.quiz{
+	padding-top: 20px;
+}
+
+.buttons-bar{
+	padding-top: 20px;
+}
+
+#nav-buttons {   
+    margin-bottom: 30px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.table th,
+.table td { 
+     border-top: none !important; 
+ }
+
+.selectedAnswer,
+.table .btn-default:active,
+.table .btn-default:focus
+{
+    background-color: #FDB225;
+}

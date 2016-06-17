@@ -1,0 +1,36 @@
+#outer-container {
+    margin-top: 40px;
+}
+
+#edit-profile-btn {
+    margin-top: 40px;    
+}
+
+.table {
+    width: 80%;
+}
+
+#top-title {
+    margin-top: 40px;
+}
+
+.table tbody>tr>td {
+    vertical-align: middle;
+}
+
+.table tbody>tr>.align-right{
+    text-align: right;
+}
+
+@media print {
+
+  body * {
+    visibility: hidden;
+  }
+
+  #scertificate-copy, #certificate-copy * {
+    visibility: visible;
+  }
+
+
+}
